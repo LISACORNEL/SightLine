@@ -1,4 +1,5 @@
-import MetricCard from '../components/MetricCard'
+import MetricCard from "../MetricCard";
+
 
 export default function Home() {
   return (
